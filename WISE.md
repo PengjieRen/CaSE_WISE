@@ -2,6 +2,13 @@
 
 WISE is a benchmark dataset of Conversational Information Seeking (CIS). It contains **1.9K** conversation with many search intents, and **37K** utterances with an average turn number of **9.2**.
 
+Baidu drive: 
+链接：https://pan.baidu.com/s/1RGzZC4OmUvQ2UCXpa8mauQ 
+提取码：85jw 
+
+Google drive:
+https://drive.google.com/drive/folders/1KFo3OGvFjqC-cDL6_hULyZc5CANz2Rky?usp=sharing
+
 ## Data
 
 The conversation files include `conversation_train_line.json/conversation_test_line.json/conversation_valid_line.json`.
