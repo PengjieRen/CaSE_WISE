@@ -9,6 +9,9 @@ Baidu drive:
 Google drive:
 https://drive.google.com/drive/folders/1KFo3OGvFjqC-cDL6_hULyZc5CANz2Rky?usp=sharing
 
+![seen_unseen](./seen_unseen.png)
+![train_test_valid](./train_test_valid.png)
+
 ## Data
 
 The conversation files include `conversation_train_line.json/conversation_test_line.json/conversation_valid_line.json`.
