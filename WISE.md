@@ -9,8 +9,8 @@ Baidu drive:
 Google drive:
 https://drive.google.com/drive/folders/1KFo3OGvFjqC-cDL6_hULyZc5CANz2Rky?usp=sharing
 
-![seen_unseen](./seen_unseen.png)
-![train_test_valid](./train_test_valid.png)
+![data](./data.png)\
+*Data construction process*
 
 ## Data
 
