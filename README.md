@@ -11,9 +11,9 @@ by *Pengjie Ren, Zhongkun Liu, Xiaomeng Song, Hongtao Tian, Zhumin Chen, Zhaochu
 
 ## Paper summary
 
-![task](./task.png)
-*Task pipeline for conversational information seeking (CIS)*
-![model](./model.png)
+![task](./task.png)\
+*Task pipeline for conversational information seeking (CIS)*\
+![model](./model.png)\
 *Model pipeline for conversational information seeking (CIS)*
 
 In this work, we make efforts to facilitate research on conversational information seeking (CIS) from three angles: (1) We formulate a pipeline for CIS with six sub-tasks: intent detection, keyphrase extraction, action prediction, query selection, passage selection, and response generation. (2) We release a benchmark dataset, called wizard of search engine(WISE), which allows for comprehensive and in-depth research on all aspects of CIS. (3) We design a neural architecture capable of training and evaluating both jointly and separately on the six sub-tasks, and devise a pre-train/fine-tune learning scheme, that can reduce the requirements of WISE in scale by making full use of available data. 
