@@ -48,7 +48,7 @@ We recommend to use conda for installing the requirements. If you haven't instal
 
 ### Datasets
 
-We use [WebQA](http://spaces.ac.cn/archives/4338/), [DuReader](http://ai.baidu.com/broad/download?dataset=dureader), [KdConv](https://github.com/thu-coai/KdConv/tree/master/data) and [DuConv](https://ai.baidu.com/broad/introduction?dataset=duconv) datasets for pretraining. You can get them from the provided links and put them in the corresponding folders in `./data/`. For example, WebQA datasets should be put in `./data/WebQA`, and DuReader datasets in `./data/Dureader` and so on.  We use the WISE dataset to fine-tune the model, and this dataset is available in `./data/WISE`. Details about the WISE dataset can be found in [data](./WISE.md).
+We use [WebQA](http://spaces.ac.cn/archives/4338/), [DuReader](http://ai.baidu.com/broad/download?dataset=dureader), [KdConv](https://github.com/thu-coai/KdConv/tree/master/data) and [DuConv](https://ai.baidu.com/broad/introduction?dataset=duconv) datasets for pretraining. You can get them from the provided links and put them in the corresponding folders in `./data/`. For example, WebQA datasets should be put in `./data/WebQA`, and DuReader datasets in `./data/Dureader` and so on.  We use the WISE dataset to fine-tune the model, and this dataset is available in `./data/WISE`. Details about the WISE dataset can be found [here](./WISE.md).
 
 ### Training
 
