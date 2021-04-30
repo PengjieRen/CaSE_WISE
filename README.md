@@ -1,6 +1,6 @@
 # Wizard of Search Engine: Access to Information Through Conversations with Search Engines
 
-Authors: *Pengjie Ren, Zhongkun Liu, Xiaomeng Song, Hongtao Tian, Zhumin Chen, Zhaochun Ren and Maarten de Rijke*
+by *Pengjie Ren, Zhongkun Liu, Xiaomeng Song, Hongtao Tian, Zhumin Chen, Zhaochun Ren and Maarten de Rijke*
 
 ## Paper summary
 
